@@ -1,0 +1,5 @@
+/build
+/ios/Build
+/.dart_tool
+/ios/.symlinks
+/.idea
